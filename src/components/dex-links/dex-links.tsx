@@ -41,7 +41,7 @@ const links: {
   },
   {
     name: "CoinGecko",
-    url: "https://www.coingecko.com/",
+    url: "https://www.geckoterminal.com/solana/pools/J6MWLRDJx3kW1NctBwHhWfCHVo9auf5tG7fd7qDtQwfv",
     icon: () => <CoinGeckoIcon width={size} height={size} />,
   },
 ];
