@@ -10,12 +10,7 @@ function App() {
         <div className="section-1">
           <div className="section-1-cover">
             <div className="ca">
-              <CopyToClipboard text="CEzWsLdchL3st89zwADa2xKo6McU816hXrCTA7dEpump">
-                <h2>
-                  Contract Address: CEzWsLdchL3st89zwADa2xKo6McU816hXrCTA7dEpump
-                </h2>
-                <button>Copy</button>
-              </CopyToClipboard>
+              <CopyToClipboard />
             </div>
             <div className="section-1-logo"></div>
             <div className="section-1-links">
