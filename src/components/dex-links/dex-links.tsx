@@ -36,7 +36,7 @@ const links: {
   },
   {
     name: "DexScreener",
-    url: "https://dexscreener.com/",
+    url: "https://dexscreener.com/solana/j6mwlrdjx3kw1nctbwhhwfchvo9auf5tg7fd7qdtqwfv",
     icon: () => <DexScreenerIcon width={size} height={size} />,
   },
   {
