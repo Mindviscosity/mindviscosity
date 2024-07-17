@@ -31,7 +31,7 @@ const links: {
   },
   {
     name: "DexTools",
-    url: "https://www.dextools.io/app/en/hot-pairs",
+    url: "https://www.dextools.io/app/en/solana/pair-explorer/J6MWLRDJx3kW1NctBwHhWfCHVo9auf5tG7fd7qDtQwfv",
     icon: () => <DexToolsIcon width={size} height={size} />,
   },
   {

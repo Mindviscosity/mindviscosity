@@ -1,6 +1,6 @@
 import "./copy-to-clipboard.css";
 
-import React, { useState } from "react";
+import { useState } from "react";
 
 const CopyToClipboard = () => {
   const [isCopied, setIsCopied] = useState(false);
