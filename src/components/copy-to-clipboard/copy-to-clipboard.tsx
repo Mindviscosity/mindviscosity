@@ -25,7 +25,7 @@ const CopyToClipboard = () => {
         Contract Address: <br />
         CEzWsLdchL3st89zwADa2xKo6McU816hXrCTA7dEpump
       </h2>
-      <button>{isCopied ? "Copied!" : "Copy"}</button>
+      <button className="copy-button">{isCopied ? "Copied!" : "Copy"}</button>
     </div>
   );
 };

@@ -35,4 +35,12 @@
   .copy-to-clipboard h2 {
     font-size: 12px;
   }
+
+  .copy-button {
+    font-size: 12px;
+  }
+
+  .copy-to-clipboard {
+    padding: 5px 10px;
+  }
 }
