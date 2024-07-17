@@ -1,9 +1,9 @@
 {
   "name": "mindviscosity",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
-  "homepage": "https://mindviscosity.github.io/mindviscosity/",
+  "homepage": "https://www.mindviscosity.art",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
