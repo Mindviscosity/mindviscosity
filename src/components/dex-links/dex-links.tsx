@@ -1,6 +1,5 @@
 import "./dex-links.css";
 
-import CoinGeckoIcon from "../../icons/coingecko-icon";
 import CoinGeckoTerminalIcon from "../../icons/coingecko-terminal-icon";
 import DexScreenerIcon from "../../icons/dexscreener-icon";
 import DexToolsIcon from "../../icons/dextools-icon";
