@@ -47,12 +47,17 @@ const links: {
 ];
 
 export const DexLinks = () => {
+  const handleMouseLeave = (event: React.MouseEvent<HTMLAnchorElement>) => {
+    (event.target as HTMLAnchorElement).style.transform = "scale(1)";
+  };
+
   const buttons = links.map((link) => {
     return (
       <div className="link-button">
         <a
           href={link.url}
           key={link.url}
+          onMouseLeave={handleMouseLeave}
           style={{
             textDecoration: "none",
             display: "flex",
