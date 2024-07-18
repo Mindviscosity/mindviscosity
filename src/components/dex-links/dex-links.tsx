@@ -1,6 +1,7 @@
 import "./dex-links.css";
 
 import CoinGeckoIcon from "../../icons/coingecko-icon";
+import CoinGeckoTerminalIcon from "../../icons/coingecko-terminal-icon";
 import DexScreenerIcon from "../../icons/dexscreener-icon";
 import DexToolsIcon from "../../icons/dextools-icon";
 import DiscordIcon from "../../icons/discord-icon";
@@ -42,7 +43,7 @@ const links: {
   {
     name: "CoinGecko",
     url: "https://www.geckoterminal.com/solana/pools/J6MWLRDJx3kW1NctBwHhWfCHVo9auf5tG7fd7qDtQwfv",
-    icon: () => <CoinGeckoIcon width={size} height={size} />,
+    icon: () => <CoinGeckoTerminalIcon width={size} height={size} />,
   },
 ];
 
